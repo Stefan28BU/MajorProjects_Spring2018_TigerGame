@@ -1,0 +1,3 @@
+/Users/Stefan_Xu/Desktop/Stefan/CSI3334/group_proj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Stefan_Xu/Desktop/Stefan/CSI3334/group_proj/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Stefan_Xu/Desktop/Stefan/CSI3334/group_proj/cmake-build-debug/CMakeFiles/group_proj.dir

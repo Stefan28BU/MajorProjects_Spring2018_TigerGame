@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.8)
+project(group_proj)
+
+set(CMAKE_CXX_STANDARD 11)
+include_directories(/Library/Frameworks/SDL2_mixer.framework)
+include_directories(/Library/Frameworks/SDL2.framework)
+link_directories(/Library/Frameworks/SDL2_mixer.framework)
+link_directories(/Library/Frameworks/SDL2.framework)
+add_executable(group_proj main.cpp SDL_Plotter.h Line.cpp Line.h Tiger.cpp Tiger.h Human.cpp Human.h)
+target_link_libraries(group_proj /Library/Frameworks/SDL2_mixer.framework)
+target_link_libraries(group_proj /Library/Frameworks/SDL2.framework)
